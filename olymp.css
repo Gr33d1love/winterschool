@@ -1,0 +1,293 @@
+header{
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	font-size: 30px;
+
+}
+body{
+	font-family: "Lato", sans-serif;
+	background-image: url(img/fon.jpg);
+	background-size: contain;
+	background-attachment: fixed;
+}
+.img{
+	margin-left: 450px;
+	margin-top: 200px;
+	font-size: 50px;
+	height: 450px;
+	width: 50%;
+	background-image:url(img/olymp.jfif) ;
+	margin-top: 20px;
+	border-radius: 20px;
+	text-align: center;
+	color: white;
+}
+.voc{
+	font-size: 30px;
+	height: 500px;
+	width: 100%;
+	text-align: center;
+	color: white;
+	background-color: rgba(36, 102, 163, 0.6);
+	border-radius: 20px;
+	backdrop-filter: blur(5px);
+
+}
+h1.voc{
+	font-size: 40px;
+}
+
+
+/*ментори*/
+.teacher {
+  position: absolute;
+  width: 600px;
+  height: 109px;
+  left: 600px;
+  top: 1300px;
+
+  font-size: 35px;
+}
+.shep {
+  position: absolute;
+  width: 148px;
+  height: 156px;
+  left: 100px;
+  top: 1500px;
+  font-size: 45px;
+}
+.name-teacher {
+  position: absolute;
+  width: 148px;
+  height: 156px;
+  left: 270px;
+  top: 1500px;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+.describe-teacher {
+  position: absolute;
+  width: 248px;
+  height: 156px;
+  left: 270px;
+  top: 1560px;
+  font-size: 17px;
+  font-weight: normal;
+  color: white;
+}
+
+.roico {
+  position: absolute;
+  width: 148px;
+  height: 156px;
+  left: 1300px;
+  top: 1500px;
+  font-size: 45px;
+}
+.name-teacher2 {
+  position: absolute;
+  width: 148px;
+  height: 156px;
+  left: 1470px;
+  top: 1500px;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+.describe-teacher2 {
+  position: absolute;
+  width: 248px;
+  height: 156px;
+  left: 1470px;
+  top: 1560px;
+  font-size: 17px;
+  font-weight: normal;
+  color: white;
+}
+.our-course {
+  position: absolute;
+  width: 427px;
+  height: 728px;
+  left: 620px;
+  top: 1680px;
+  font-size: 45px;
+}
+
+.course1 {
+  position: absolute;
+  width: 400px;
+  height: 700px;
+  left: 200px;
+  top: 1852px;
+
+  background: rgba(36, 102, 163, 0.6);
+  border-radius: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+
+/* .course-text {
+  position: absolute;
+  width: 427px;
+  height: 728px;
+  left: 105px;
+  top: 1272px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  text-align: center; 
+
+  color: #000;
+}*/
+
+.course2 {
+  position: absolute;
+  width: 400px;
+  height: 700px;
+  left: 700px;
+  top: 1852px;
+
+  background: rgba(36, 102, 163, 0.6);
+  border-radius: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+
+.course3 {
+  position: absolute;
+  width: 400px;
+  height: 700px;
+  left: 1200px;
+  top: 1852px;
+
+  background: rgba(36, 102, 163, 0.6);
+  border-radius: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+
+.button2 {
+  position: absolute;
+  width: 200px;
+  height: 59px;
+  left: 100px;
+  top: 555px;
+  background:#ffffff;
+  border-radius: 100px;
+  font-size: 20px;
+}
+.link2 {
+  text-decoration: none;
+  color: #000000;
+  font-weight: normal;
+}
+
+.button3 {
+  position: absolute;
+  width: 200px;
+  height: 59px;
+  left: 100px;
+  top: 555px;
+  background: #ffffff;
+  border-radius: 100px;
+  font-size: 20px;
+}
+
+.button4 {
+  position: absolute;
+  width: 200px;
+  height: 59px;
+  left: 100px;
+  top: 555px;
+  background: #ffffff;
+  border-radius: 100px;
+  font-size: 20px;
+}
+
+.foother {
+  position: absolute;
+  width: 1920px;
+  height: 220px;
+  left: -1218px;
+  top: 1200px;
+  font-size: 17px;
+  font-weight: normal;
+  background: rgba(36, 102, 163, 0.6);
+  text-align: center;
+}
+.email {
+  font-size: 20px;
+  text-decoration: none;
+  color: #fff;
+  top: 3505px;
+}
+.street {
+  color: #fff;
+  font-size: 18px;
+}
+.bold {
+  font-weight: bold;
+}
+.name {
+  color: sandybrown;
+  font-size: 20px;
+}
+/*навігація*/
+
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(3, 137, 255, 0.5);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  backdrop-filter: blur(5px);
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
